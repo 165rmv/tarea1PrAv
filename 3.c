@@ -1,13 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 
 int main()
 {
-    int64_t x; 
-    x >> 2; 
-    printf(x); 
-
-
+    int &arr[1000][1000]
+    
     return 0;
 }
